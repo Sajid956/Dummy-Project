@@ -1,0 +1,23 @@
+.nav_ele{
+    width: 66.46731rem;
+    height: 4.0655rem;
+    display: flex;
+    border-radius: 1.43813rem 1.875rem 1.875rem 1.43813rem;
+    background: #FFF;
+    box-shadow: 0px -0.3px 4px 0px rgba(0, 0, 0, 0.25), 0px 1px 4px 0px rgba(0, 0, 0, 0.25);
+    align-items: center;
+    justify-content: center;
+    gap: 4.35rem ;
+    
+}
+
+.navbar{
+    display: flex;
+    width: 100vw;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.arrow {
+    align-items: center;
+}
